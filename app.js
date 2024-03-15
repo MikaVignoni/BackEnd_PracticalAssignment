@@ -7,8 +7,6 @@ const veterinaryClinicRouter = require('./routes/patients');
 
 app.use(express.json());
 
-app.use(addNoteRequest);
-
 app.use('/veterinaryClinic', veterinaryClinicRouter);
 
 connect();
