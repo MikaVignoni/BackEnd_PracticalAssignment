@@ -9,10 +9,16 @@ Given that it's part of an academic activity, the project had to meet the follow
 
 Project integration guidelines for BackEnd:
 
-Have its own database and account on MongoDB Atlas.
-Develop the project with a Node server that uses routes with their respective HTTP methods for communication with the database.
-Have an original and custom schema.
-Have at least 4 routes that form a CRUD (Create, Read, Update, Delete).
-Validate necessary routes using express-validator.
-Develop a custom middleware.
-Have a route that communicates with an external API.
+> Have its own database and account on MongoDB Atlas.
+
+> Develop the project with a Node server that uses routes with their respective HTTP methods for communication with the database.
+
+> Have an original and custom schema.
+
+> Have at least 4 routes that form a CRUD (Create, Read, Update, Delete).
+
+> Validate necessary routes using express-validator.
+
+> Develop a custom middleware.
+
+> Have a route that communicates with an external API.
